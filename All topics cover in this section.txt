@@ -1,0 +1,12 @@
+Spring Cloud components and use them for your micro services in easy steps:-
+
+1.create coupon microservice
+2.Create a product microservice
+3.service Discovery using eureka
+4.Rest client using feign
+5.Client side load balancing
+6.Gateway 
+7.Resilence4J- fault tolerance
+8.Sleuth and Zipkin
+9.Centralized COnfiguration
+10.Spring Cloud Bus
